@@ -1,5 +1,0 @@
-{
-  "spring.datasource.username":"sa",
-  "spring.datasource.password":"Admin12?",
-  "spring.datasource.url":"jdbc:sqlserver://localhost;databaseName=PUC;encrypt=true;trustServerCertificate=true"
-}
