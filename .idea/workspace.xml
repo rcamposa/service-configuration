@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7b8169a-e841-4ab3-9ee0-74329580fbe9" name="Changes" comment="Change properties v16">
+      <change afterPath="$PROJECT_DIR$/stock-microservice-dev.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rcamposa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rcamposa/service-configuration.git&quot;,
+    &quot;accountId&quot;: &quot;65a4647c-3a1c-4197-93fe-c534873ac668&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sSK4CJM7GttC00aT6qbBDBNSnY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Trabajo5/service-configuration",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Trabajo5\service-configuration" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7b8169a-e841-4ab3-9ee0-74329580fbe9" name="Changes" comment="" />
+      <created>1738443343065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738443343065</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1738450162131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738450162131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change properties v2">
+      <option name="closed" value="true" />
+      <created>1738521596936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738521596936</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change properties v3">
+      <option name="closed" value="true" />
+      <created>1738521814226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738521814226</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change properties v4">
+      <option name="closed" value="true" />
+      <created>1738529959541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738529959541</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change properties v5">
+      <option name="closed" value="true" />
+      <created>1738530861844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738530861844</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change properties v6">
+      <option name="closed" value="true" />
+      <created>1738533203965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533203965</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change properties v7">
+      <option name="closed" value="true" />
+      <created>1738533569811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738533569811</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change properties v8">
+      <option name="closed" value="true" />
+      <created>1738534124876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738534124876</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Change properties v9">
+      <option name="closed" value="true" />
+      <created>1738553360264</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738553360264</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Change properties v10">
+      <option name="closed" value="true" />
+      <created>1738554062763</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738554062763</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Change properties v11">
+      <option name="closed" value="true" />
+      <created>1738554360917</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738554360917</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Change properties v12">
+      <option name="closed" value="true" />
+      <created>1738555165170</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738555165170</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Change properties v12">
+      <option name="closed" value="true" />
+      <created>1738555442578</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738555442578</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Change properties v13">
+      <option name="closed" value="true" />
+      <created>1738671120394</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738671120394</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Change properties v14">
+      <option name="closed" value="true" />
+      <created>1738675365038</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738675365038</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Change properties v15">
+      <option name="closed" value="true" />
+      <created>1738774317409</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738774317409</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Change properties v16">
+      <option name="closed" value="true" />
+      <created>1738775160157</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1738775160157</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Change properties v2" />
+    <MESSAGE value="Change properties v3" />
+    <MESSAGE value="Change properties v4" />
+    <MESSAGE value="Change properties v5" />
+    <MESSAGE value="Change properties v6" />
+    <MESSAGE value="Change properties v7" />
+    <MESSAGE value="Change properties v8" />
+    <MESSAGE value="Change properties v9" />
+    <MESSAGE value="Change properties v10" />
+    <MESSAGE value="Change properties v11" />
+    <MESSAGE value="Change properties v12" />
+    <MESSAGE value="Change properties v13" />
+    <MESSAGE value="Change properties v14" />
+    <MESSAGE value="Change properties v15" />
+    <MESSAGE value="Change properties v16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change properties v16" />
+  </component>
+</project>
